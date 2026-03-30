@@ -1,3 +1,12 @@
 /Data
 /hands-on-2.zip
 4. PPHTB  999 - 15 10 2024.parquet
+streamlit_phtb/artifacts/config.pkl
+streamlit_phtb/artifacts/dashboard_data.parquet
+streamlit_phtb/artifacts/le_dict.pkl
+streamlit_phtb/artifacts/lr_model.pkl
+streamlit_phtb/artifacts/rf_model.pkl
+streamlit_phtb/artifacts/scaler.pkl
+label_encoder.pkl
+model.pkl
+scaler.pkl
